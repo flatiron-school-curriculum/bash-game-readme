@@ -1,7 +1,4 @@
----
-tags: command line, shell, cd, ls, pwd
-languages: bash
----
+
 
 # Terminus - The Online Bash Game
 
